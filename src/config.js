@@ -1,7 +1,7 @@
 export const config = {
   // <--------------------  Home section  ----------------------->
   resumeLink:
-    "https://drive.google.com/file/d/18juvqZmKS78-EP0qm-SlVNLTpUGlVdeG/view?usp=sharing",
+    "https://drive.google.com/file/d/1hjuGw6ga7tb9ePKxWvjZAPUUhprxfebS/view?usp=sharing",
   gitHubUrl: "https://github.com/Hemantpatidar1",
 
   workExperience: [
