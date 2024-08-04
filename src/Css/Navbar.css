@@ -1,0 +1,40 @@
+.nav-link {
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.nav-link.active {
+  color: #04d9ff !important;
+}
+.nav-link:hover {
+  color: #5c8f99;
+}
+#nav-link-bar {
+  height: 4px;
+  background-color: #04d9ff;
+  transition: all 0.5s ease;
+  position: fixed;
+}
+
+/* custom navbar from side with animation */
+@media (max-width: 991px) {
+  #navbarSupportedContent {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    left: -140px;
+    top: 100%;
+    height: calc(100vh - 100%) !important;
+    background-color: rgba(0, 0, 0, 0.92);
+    transition: left 0.3s ease-in-out;
+  }
+
+  #navbarSupportedContent ul {
+    height: 100%;
+    justify-content: space-evenly;
+  }
+
+  #navbarSupportedContent.show {
+    left: 0;
+  }
+}
