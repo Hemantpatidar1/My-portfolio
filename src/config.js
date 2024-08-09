@@ -68,27 +68,22 @@ export const config = {
   // <------------------------  portfolio section  ------------------->
   portfolio: [
     {
-      projectName: "Tutorial Routes",
+      projectName: "Banking Management System",
       logo: "tutorial_routes.png",
-      projectQuote: "Educational Resource Web App",
-      gitHub: "https://github.com/mansiiawasthi/Tutorial__Routes",
+      projectQuote: "Banking App",
+      gitHub: "https://github.com/Hemantpatidar1/Banking-System",
       //deployment: " ",
       skillsUsed: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-        "Node Js",
-       " Express Js",
-        "MongoDb",
+        "JAVA",
+        "MySQL",
+        "Swing",
       ],
       points: [
-        "Developed an Educational Resource Web App utilizing Bootstrap, HTML, CSS, JavaScript, Node.js,Express.js, and MongoDB.",
-        "Comprehensive learning hub with video tutorials, roadmaps, and resources for diverse courses.",
-        "Dynamic frontend fetches content from MongoDB, ensuring an interactive user experience.",
-        "Backend powered by Node.js and Express.js, facilitating seamless content delivery.",
-        "MongoDB employed as database for efficient course data management and retrieval.",
-        "Enhancing learning accessibility by providing a one-stop platform for course materials and tutorials.",
+        " Utilized Java for backend development to ensure a stable and efficient application",
+        " Implemented object-oriented programming principles to enhance code readability and maintenance.",
+        " Created and managed MySQL databases to store and retrieve banking data securely..",
+        " Implemented secure authentication and authorization mechanisms for user accounts",
+       
       ],
     },
     {
