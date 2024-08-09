@@ -86,26 +86,9 @@ export const config = {
        
       ],
     },
+    
     {
-      projectName: "Drum Kit",
-      logo: "drum_kit.png",
-      projectQuote: "Creating Drum Sounds with Keyboard Input",
-      gitHub: "https://github.com/mansiiawasthi/drumm-kit",
-      deployment: "https://drum-kit-2910.netlify.app/",
-      skillsUsed: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-      ],
-      points: [
-        "Developed a Drum Kit using HTML, CSS, and JavaScript to craft an interactive virtual drum set.",
-        "The project generates corresponding drum sounds when specific keys on the keyboard are pressed.",
-        "Utilized HTML for structure, CSS for styling, and JavaScript for key presses and audio playback.",
-        "Improving user engagement, the project provides interactive drumming in a virtual environment.",
-      ],
-    },
-    {
-      projectName: "Dice Game",
+      projectName: "RealTime Chat Application",
       logo: "dice_game.png",
       projectQuote: "A Fun and Engaging Dice Game",
       gitHub: "https://github.com/mansiiawasthi/DiceGame",
@@ -123,32 +106,13 @@ export const config = {
         "JavaScript manages random dice numbers, game rules, and declaring winners.",
       ],
     },
+    
     {
-      projectName: "Apna Cart",
-      logo: "add_to_cart.png",
-      projectQuote: "React Amazon-like Add to Cart Feature",
-      gitHub: "https://github.com/mansiiawasthi/Apnacart",
-      deployment: "https://apna-cart-1004.netlify.app/",
-      skillsUsed: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-      ],
-      points: [
-        "The website will allow users to browse a curated list of products and easily add items to their virtual cart.",
-        "The project leverages React for building a dynamic user interface, JavaScript for handling the interactive aspects, and HTML for structuring the webpage.",
-        "Design a dedicated section to show the items that have been added to the cart. Display the product details, quantities, and calculated subtotal.",
-        "Allow users to adjust the quantity of items in their cart, either by typing the desired quantity or using + and - buttons.",
-        "Display a visually appealing grid of product items, each featuring an image, title, price, and brief description.",
-      ],
-    },
-    {
-      projectName: "Online_Book_Store",
+      projectName: "Qubit Club",
       logo: "online_book_store.png",
       projectQuote: "The Online Book Store Website project is aimed at creating a user-friendly and visually appealing platform for purchasing books from different departments.",
-      gitHub: "https://github.com/mansiiawasthi/Online_Book_Store",
-      deployment: "https://bespoke-tartufo-f2d998.netlify.app/",
+      gitHub: "https://github.com/Hemantpatidar1/Qubit",
+      deployment: "https://qubit-six.vercel.app/",
       skillsUsed: [
         "HTML",
         "CSS",
@@ -161,6 +125,27 @@ export const config = {
         "Design a login page for users to access their accounts by entering their credentials.",
       ],
     },
+  
+  {
+    projectName: "To-Do-List",
+    logo: "add_to_cart.png",
+    projectQuote: "React Amazon-like Add to Cart Feature",
+    gitHub: "https://github.com/Hemantpatidar1/To-do-list",
+    deployment: "https://to-do-list-lovat-three.vercel.app/",
+    skillsUsed: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+    ],
+    points: [
+      "The website will allow users to browse a curated list of products and easily add items to their virtual cart.",
+      "The project leverages React for building a dynamic user interface, JavaScript for handling the interactive aspects, and HTML for structuring the webpage.",
+      "Design a dedicated section to show the items that have been added to the cart. Display the product details, quantities, and calculated subtotal.",
+      "Allow users to adjust the quantity of items in their cart, either by typing the desired quantity or using + and - buttons.",
+      "Display a visually appealing grid of product items, each featuring an image, title, price, and brief description.",
+    ],
+  },
   ],
 
   // <------------------------  contact section  -------------------->
