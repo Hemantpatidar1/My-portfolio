@@ -6,7 +6,7 @@ export const config = {
 
   workExperience: [
     {
-      name: "NITM Devathon 2022",
+      name: "NITMN TechFest",
       duration: "November 2022 ",
       points: [
         "Worked on a Hostel management system under some seniors and team.",
@@ -57,12 +57,7 @@ export const config = {
     "JavaScript",
     "Bootstrap",
     "React Js",
-    "Jquery",
-    "Node Js",
-    "MongoDb",
-    "Express JS",
-    "Ejs",
-    "SQL"
+     "SQL"
   ],
 
   // <------------------------  portfolio section  ------------------->
@@ -90,7 +85,7 @@ export const config = {
     {
       projectName: "RealTime Chat Application",
       logo: "dice_game.png",
-      projectQuote: "A Fun and Engaging Dice Game",
+      projectQuote: "A Fun and Engaging with Friends",
       gitHub: "https://github.com/mansiiawasthi/DiceGame",
       deployment: "https://imaginative-fenglisu-5781f7.netlify.app/",
       skillsUsed: [
@@ -99,18 +94,18 @@ export const config = {
         "JavaScript",
       ],
       points: [
-        "Developed an interactive dice game using HTML, CSS, and JavaScript for entertainment and thrill.",
-        "Game alternates as players roll a virtual dice, generating random numbers.",
-        "App applies game rules, identifying round winners.",
-        "User-friendly design with HTML and CSS.",
-        "JavaScript manages random dice numbers, game rules, and declaring winners.",
+        "It is a Chat application, developed for use of college students and faculties for events, notice, announcements et",
+        "Fetches live chat using firebase.",
+        " Uses state management.",
+        "Tools and Technologies: JavaScript, ReactJS, HTML, CSS, Firebase",
+        
       ],
     },
     
     {
       projectName: "Qubit Club",
       logo: "online_book_store.png",
-      projectQuote: "The Online Book Store Website project is aimed at creating a user-friendly and visually appealing platform for purchasing books from different departments.",
+      projectQuote: "Lets contibute towards Qubit.",
       gitHub: "https://github.com/Hemantpatidar1/Qubit",
       deployment: "https://qubit-six.vercel.app/",
       skillsUsed: [
@@ -118,18 +113,15 @@ export const config = {
         "CSS",
       ],
       points: [
-        "Create an inviting home page with a banner showcasing popular books and a navigation menu that leads to various departments and user-related pages.",
-        "Design separate sections for each department (CSE, EEE, etc.), displaying book covers, titles, authors, and brief descriptions.",
-        "Provide a detailed view of each book's information, including its price, availability, and a longer description.",
-        "Implement a registration form where users can create accounts by providing their name, email, password, etc.",
-        "Design a login page for users to access their accounts by entering their credentials.",
+        "Qubit coding club nit manipur where i contributed with seniors to build website.",
+        
       ],
     },
   
   {
     projectName: "To-Do-List",
     logo: "add_to_cart.png",
-    projectQuote: "React Amazon-like Add to Cart Feature",
+    projectQuote: "Write want you want",
     gitHub: "https://github.com/Hemantpatidar1/To-do-list",
     deployment: "https://to-do-list-lovat-three.vercel.app/",
     skillsUsed: [
@@ -139,11 +131,7 @@ export const config = {
       "React",
     ],
     points: [
-      "The website will allow users to browse a curated list of products and easily add items to their virtual cart.",
-      "The project leverages React for building a dynamic user interface, JavaScript for handling the interactive aspects, and HTML for structuring the webpage.",
-      "Design a dedicated section to show the items that have been added to the cart. Display the product details, quantities, and calculated subtotal.",
-      "Allow users to adjust the quantity of items in their cart, either by typing the desired quantity or using + and - buttons.",
-      "Display a visually appealing grid of product items, each featuring an image, title, price, and brief description.",
+      "To do List using React",
     ],
   },
   ],

@@ -16,7 +16,7 @@ export default function About() {
       <div className="col-lg-8 col-sm-10 col-11 fs-6 text-white-50 lh-sm">
         <div className="d-flex flex-wrap mt-4">
           <img
-            src={require("../Images/profile2.jpg")}
+            src={require("../Images/profile.png")}
             alt="profile"
             className="rounded-circle me-2"
             style={{ maxWidth: "150px" }}
